@@ -1,5 +1,5 @@
 
-# 📊 Data Analytics Programming Course Portfolio (SECP3223)
+# 📊 Data Analytics Programming
 
 Welcome to my repository for the Data Analytics Programming course at Universiti Teknologi Malaysia (UTM). This space serves as an academic portfolio documenting our end-to-end data processing workflows, analytical assignments, and collaborative data science projects.
 
